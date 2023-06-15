@@ -1,5 +1,5 @@
 # 💫 About Me:
-Desenvolvedor FullStack JAVA<br>Atualmente aprendendo 🚀
+Desenvolvedor FullStack JAVA<br>Atualmente aprendendo AWS Cloud Data Engeneering  🚀
 
 
 # 💻 Tech Stack:
